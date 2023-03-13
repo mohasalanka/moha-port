@@ -1,0 +1,31 @@
+p{
+    color:blueviolet; 
+}
+
+.m-color {
+    Color: red;
+}
+
+.highlight-word-color{
+    color:green;
+}
+
+/* .my-lion {
+    width:300px;
+    height: 200px;
+    background-image: url();
+    background-size: 200%;
+    background-position: center;
+} */
+
+.my-lion:hover {
+    background-size: 100%;
+}
+
+body{
+    background: url("images/lion.jpeg.jpeg");
+    height: 100%;
+    display: block;
+    background-size: 80%;
+    width:100px;
+}
